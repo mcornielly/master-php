@@ -66,8 +66,7 @@ switch ($day) {
 
 
 // GOTO
-echo '<br />';
-echo '<hr>';
+
 
 goto mark;
 echo 'Proceso 1';

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include 'includes/headers.php'; ?>
+    <?php require_once 'includes/headers.php'; ?>
     
     <hr>
     <!-- Content -->
